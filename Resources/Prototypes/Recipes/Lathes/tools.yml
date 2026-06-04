@@ -205,7 +205,7 @@
   materials:
     Steel: 650
     Plastic: 150
-    Gold: 50
+    N14Gold: 50
 
 - type: latheRecipe
   id: WelderExperimental

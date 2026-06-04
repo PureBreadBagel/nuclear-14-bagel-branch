@@ -260,7 +260,7 @@
   category: N14Tools
   completetime: 2
   materials:
-    N14Gold: 50
+    N14Gold: 50 # Nuclear14 Change: Use OUR gold instead of SS14s default.
     Plastic: 300
     Circuitry: 100
 
